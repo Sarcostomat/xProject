@@ -1,0 +1,105 @@
+root { 
+    display: block;
+}
+
+#newsblock{
+    height: auto;
+    width: 780px;
+    /*overflow-y: scroll;*/
+
+    text-align: left;
+    margin-top: 8px;
+    margin-left: 5px;
+    
+    float: left;
+    
+}
+#newsbox{
+    height:auto;
+    width:750px;
+    margin-top: 5px;
+    margin-left: 14px;
+    border-style: solid;
+    
+    
+    border-width: 2px;
+    border-color: white;
+    float: left;
+    margin-bottom: 5px;
+}
+
+#newscreatorbox{
+    height: 250px;
+    width: 200px;
+    /*background-color: black;*/
+    margin-left: auto;
+    margin-right: auto;
+
+    float: left;
+    
+}
+#newscreatorportraitname{
+    text-align: center;
+    margin-top: 25px;
+    
+    font-size: 20px;
+    
+    
+}
+
+#newscreatorportrait{
+    height: 125px;
+    width: 125px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    margin-top: 5px;
+    border-style: solid;
+    border-color: white;
+    
+}
+
+#newscreatorportraittitle{
+    text-align: center;
+    margin-top: 3px;
+    color: red;
+    font-size: 15px;
+    
+    
+}
+
+
+
+
+
+
+#newsboxfortitleandtext{
+    height: auto;
+    width: 550px;
+    
+    
+    float: left;
+    margin-bottom: 10px;
+}
+#newstitle{
+    height: auto;
+    width: auto;
+    margin:5px;
+    margin-top: 50px;
+    
+    
+    text-align: center;
+    
+    font-size: 50px;
+    font-family:fantasy;
+    
+    
+    
+}
+#newstext{
+        
+    height:auto;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    }

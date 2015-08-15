@@ -1,0 +1,103 @@
+root { 
+    display: block;
+}
+
+body{
+    background-color: black;
+    color: white;
+    
+}
+
+#header
+{
+    width:800px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    border-style: solid;
+}
+
+#navigationtop{
+    background-color: black;
+    width: 790px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    padding: 5px;
+    border-style: solid;
+
+
+
+    
+}
+
+#mainbody{
+    background-color: black;
+    width: 790px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    padding: 5px;
+    border-style: solid;
+    border-color: white;
+    
+}
+
+#navigationleft{
+    
+    width: 190px;
+    height: 200px;
+    margin-right: 10px;
+    text-align: center;
+    padding: 5px;
+    border-style: solid;
+}
+#navigationright{
+
+    width: 190px;
+    height: 200px;  
+    margin-left: 10px;
+    text-align: center;
+    padding: 5px;
+    border-style: solid;
+}
+
+#friendlist{
+    background-color: white;
+    margin-top: 10px;
+    width: 200px;
+    height: 150px;
+    margin-left: 10px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+#friendboxes{
+    background-color: white;
+    width: 178px;
+    height: 48px;
+    border-style: solid;
+    border-width: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+
+#bottompanel{
+    
+    width: 790px;
+    padding: 5px;
+    height: auto;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    clear: both;
+    
+    border-style: solid;
+}
+
+
+

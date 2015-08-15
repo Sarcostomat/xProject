@@ -1,0 +1,283 @@
+root { 
+    display: block;
+}
+
+/*  only forum.php stuff    */
+
+#latestarticlebox{
+    width: 596px;
+    height: auto;
+    
+    margin-left: auto;
+    margin-right: auto;
+    
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    
+}
+
+#latestarticleboxhead{
+    width: 598px;
+    height: auto;
+    
+    padding: 2px;
+    
+    margin-left: auto;
+    margin-right: auto;
+
+    
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    
+    font-size: 30px;
+    
+}
+
+#latestarticlecontentbox{
+    width: 450px;
+    height: auto;
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    
+    border-style: solid;
+    border-width: 2px;
+    
+    font-size: 25px;
+    
+}
+
+#latestarticle{
+    width: 444px;
+    height: auto;
+    
+    padding: 3px;
+    
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    
+}
+
+table#allarticelstablelayout{
+
+width: 600px;
+height: auto;
+
+
+    border-collapse: collapse;
+    
+    margin-top:10px;
+    margin-left: auto;
+        margin-right: auto;
+   
+}
+
+table#allarticelstablelayout th{
+    
+    
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+ 
+}
+table#allarticelstablelayout td{
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+ 
+    
+    
+}
+
+/*  only forumarticle.php stuff - article   */
+
+
+#fartcilebigbox{
+    width: 780px;
+    height: auto;
+    
+    margin-left: auto;
+    margin-right: auto;
+    
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    
+    float: left;
+}
+
+#farticlebox{
+    height:auto;
+    width:750px;
+    margin-top: 5px;
+    margin-left: 14px;
+    border-style: solid;
+    
+    
+    border-width: 2px;
+
+    margin-bottom: 5px;
+    
+    float: left;
+}
+
+#farticlecreatorbox{
+    height: 250px;
+    width: 200px;
+    /*background-color: black;*/
+    margin-left: auto;
+    margin-right: auto;
+    
+    float: left;
+}
+#farticlecreatorportraitname{
+    text-align: center;
+    margin-top: 25px;
+    
+    font-size: 20px;
+    
+    
+}
+
+#farticlecreatorportrait{
+    height: 125px;
+    width: 125px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    margin-top: 5px;
+    border-style: solid;
+
+    
+}
+
+#farticlecreatorportraittitle{
+    text-align: center;
+    margin-top: 3px;
+    color: red;
+    font-size: 15px;
+    
+    
+}
+
+#farticleboxfortitleandtext{
+    height: auto;
+    width: 548px;
+    
+    border-width: 1px;
+    
+    float: left;
+    margin-bottom: 10px;
+}
+
+#farticletitle{
+    height: auto;
+    width: auto;
+    margin:5px;
+    margin-left: 15px;
+    margin-top: 50px;
+    
+    text-align: left;
+    
+    font-size: 50px;
+    font-family:fantasy;
+    
+    
+    
+}
+
+#farticletext{
+        
+    height:auto;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    
+    .hrdesign{
+        
+        border-style: solid;
+        border-width: 1px;
+        border-color: white;
+        
+    }
+    
+/*  still forumarticle - comment stuff*/
+
+#fcommentbigbox{
+    width: 594px;
+    height: 400px;
+    
+    margin-top: 10px;
+    margin-right: 100px;
+    
+    
+    
+    float: right;
+}
+
+#fcommentbox{
+  width: 590px;
+    height: 200px;
+    
+    
+    
+    border-style: solid;
+    border-width: 2px;
+
+    
+    margin-top: -2px;
+    float: right;
+}
+    
+    
+#fcommentcreatorbox{
+    height: 200px;
+    width: 160px;
+    /*background-color: black;*/
+    margin-left: auto;
+    margin-right: auto;
+    
+    float: left;
+}
+#fcommentcreatorportraitname{
+    text-align: center;
+    margin-top: 25px;
+    
+    font-size: 16px;
+    
+    
+}
+
+#fcommentcreatorportrait{
+    height: 100px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    margin-top: 5px;
+    border-style: solid;
+
+    
+}
+
+#commentcreatorportraittitle{
+    text-align: center;
+    margin-top: 3px;
+    color: red;
+    font-size: 14px;
+    
+    
+}
+
+#fcommenttext{
+    height:auto;
+    width: 360px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    }
