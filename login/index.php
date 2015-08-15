@@ -1,7 +1,7 @@
 <?php
 include '../connecter/connect.php';
 
-//session_start(); yolo;
+//session_start(); yolo; lol; rofl;
 $case = 0;
 
 if(!isset($_SESSION["username"]) and !isset($_GET["page"])) {
